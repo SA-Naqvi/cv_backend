@@ -1,0 +1,21 @@
+Python
+Machine Learning
+Data Analysis
+SQL
+TensorFlow
+Pandas
+NumPy
+Statistics
+Data Visualization
+Deep Learning
+Scikit-learn
+Jupyter
+Matplotlib
+Seaborn
+Natural Language Processing
+Computer Vision
+Regression
+Classification
+Neural Networks
+Artificial Intelligence
+

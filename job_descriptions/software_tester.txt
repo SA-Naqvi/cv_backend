@@ -1,0 +1,20 @@
+Selenium
+QA
+Bug Tracking
+JIRA
+Test Cases
+Regression Testing
+Unit Testing
+Integration Testing
+Manual Testing
+Automated Testing
+Performance Testing
+Load Testing
+Stress Testing
+API Testing
+Postman
+REST API Testing
+Agile
+Scrum
+Software Development Life Cycle
+

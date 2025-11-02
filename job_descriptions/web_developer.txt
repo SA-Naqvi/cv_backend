@@ -1,0 +1,23 @@
+JavaScript
+React
+Node.js
+HTML
+CSS
+TypeScript
+Vue.js
+Express
+RESTful API
+MongoDB
+MySQL
+PostgreSQL
+Git
+GitHub
+Bootstrap
+Tailwind CSS
+JSON
+Docker
+AWS
+Frontend Development
+Backend Development
+Full Stack Development
+
