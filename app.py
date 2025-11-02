@@ -7,7 +7,13 @@ import os
 from utils import bruteForce, rabinKarp, kmp_matcher
 
 app = Flask(__name__)
-CORS(app)
+# Allow CORS from GitHub Pages domain and localhost for development
+CORS(app, origins=[
+    "https://sa-naqvi.github.io",
+    "https://SA-Naqvi.github.io",
+    "http://localhost:3000",
+    "http://localhost:3001"
+])
 
 # Load dataset at startup
 try:
